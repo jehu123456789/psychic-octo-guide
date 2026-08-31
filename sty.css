@@ -1,0 +1,32 @@
+*{ 
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+}
+#center{
+    width: 900px;
+    margin: auto;
+    display: block;
+}
+.container{
+font-size: 100%;
+background-color: bisque;
+padding: 1px;
+text-align: center;
+}
+.box{
+    background-color: blanchedalmond;
+    padding: 1px;
+    text-align: center;
+}
+#class{
+    text-align: center;
+}
+#ball{
+    font-style: italic;
+    margin-left: 400px;
+}
+#bell{
+    text-align: justify;
+    margin-left: 400px;
+}
